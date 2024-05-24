@@ -1,0 +1,15 @@
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/bin/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/bin/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.deps.json
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/bin/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.runtimeconfig.json
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/bin/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.dll
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/bin/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.pdb
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.AssemblyInfoInputs.cache
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.AssemblyInfo.cs
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.csproj.CoreCompileInputs.cache
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.dll
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/refint/ExpenseTrackingAndBudgetingSoftware.dll
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.pdb
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.genruntimeconfig.cache
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ref/ExpenseTrackingAndBudgetingSoftware.dll
+/Users/tony/MastersProjects/ExpenseTrackingAndBudgetingSoftware/obj/Debug/net7.0/ExpenseTrackingAndBudgetingSoftware.sourcelink.json

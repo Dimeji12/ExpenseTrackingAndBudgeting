@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTqfrOUKt/yxPYnKrLFBTOEWwR2EHp9MSuilDyEjariFBeoYtoMbWFn4bmyEgnD/Sk13pOgIg16HzBW9c7m4xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ExpenseTrackingAndBudgetingSoftware\\ExpenseTrackingAndBudgetingSoftware\\ExpenseTrackingAndBudgetingSoftware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
